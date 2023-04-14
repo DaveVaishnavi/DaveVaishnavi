@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This is Vaishnavi Dave, a tech wizard!)](https://git.io/typing-svg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaveVaishnavi&theme=codestackr)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DaveVaishnavi&theme=codestackr)](https://git.io/streak-stats)
 
 <!--
