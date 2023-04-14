@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This is Vaishnavi Dave, a tech wizard!)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DaveVaishnavi;theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DaveVaishnavi&theme=codestackr)](https://git.io/streak-stats)
 
 <!--
 **DaveVaishnavi/DaveVaishnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
