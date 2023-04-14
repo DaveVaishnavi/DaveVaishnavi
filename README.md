@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaveVaishnavi&theme=codestackr)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DaveVaishnavi&theme=codestackr)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DaveVaishnavi&theme=windows-dark)](https://git.io/streak-stats)
 
 <!--
 **DaveVaishnavi/DaveVaishnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
