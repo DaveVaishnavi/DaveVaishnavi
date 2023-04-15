@@ -6,6 +6,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,atom,bootstrap,c,cpp,css,dart,django,docker,eclipse,figma,flask,flutter,git,github,html,java,js,linux,matlab,mysql,php,powershell,py,react,redux,selenium,vscode)](https://skillicons.dev)
 
+[![]](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaveVaishnavi&theme=prussian)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaveVaishnavi&theme=codestackr)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DaveVaishnavi&theme=windows-dark)](https://git.io/streak-stats)
