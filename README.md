@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Meet+Vaishnavi+Dave+,+the+tech+whiz+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Meet+Vaishnavi+Dave,the+tech+whiz!)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaveVaishnavi&layout=compact&theme=window-dark)](https://github.com/anuraghazra/github-readme-stats)
 
